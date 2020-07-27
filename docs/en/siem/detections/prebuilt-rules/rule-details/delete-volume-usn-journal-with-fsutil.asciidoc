@@ -53,7 +53,7 @@ process.name:fsutil.exe and process.args:(deletejournal and usn)
 * Technique:
 ** Name: File Deletion
 ** ID: T1107
-** Reference URL: https://attack.mitre.org/techniques/T1107/
+** Reference URL: https://attack.mitre.org/techniques/T1070/
 
 [[delete-volume-usn-journal-with-fsutil-history]]
 ==== Rule version history
